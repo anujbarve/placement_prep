@@ -1,0 +1,38 @@
+- Aptitude Test
+	- Speed and Distance
+	- Work and Time
+	- Equations
+	- Probability
+	- Other basic aptitude topics
+- Coding [90 Min] 3 Questions
+	- Bit Manipulation
+	- Strings
+	- Arrays
+	- OOP
+	- SQL
+		- Predict the output
+- Complete the paper with max accuracy in short amount of time as possible
+-
+- 1st Round HR
+- 1st Technical Round
+	- DSA
+		- Array
+		- String
+		- Searching and Sorting
+			- Merge,Quick,Radix,Insertion Sort
+		- Tree
+		- Graph
+			- BFS to DFS
+		- Queue
+		- All with their actual implementations
+		- Stack to Queue, Queue to Stack
+	- Difference between Typescript and Javascript
+- 2nd Technical Round
+	- Questions related to graph
+	- Higher Difficult of the above topics
+	- Problem Solving
+	- Open Mind for learning new technologies
+-
+- Based on Resume questions are asked
+-
+- Misc : Proper Uniform, Proper Resume, Punctuality, First 2 mins are crucial

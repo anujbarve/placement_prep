@@ -1,0 +1,28 @@
+- 3 Rounds
+- Aptitude
+- Technical
+- HR
+-
+- Total Fresher Positions : 25
+-
+- For Aptitude Use IndiaBix
+- https://www.indiabix.com/aptitude/questions-and-answers/
+- Passing Criteria can be more than 70% depending on performance of students
+-
+- Technical Round
+- Any Language
+- Concepts should be clear
+- Dry Run, and If Asked to Explain, Explain with Real World Examples
+- Recently Asked Questions
+	- Star Pattern All Types
+	- Second Smallest
+	- Matrix Transpose 1st column ascending, 2nd column descending
+-
+- OOP Four Pillars
+	- Definitions
+	- Examples
+	- Real Life Implementation
+- DSA Questions on
+	- Stack
+	- Queue
+	- LinkedList
